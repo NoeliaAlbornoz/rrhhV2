@@ -1,0 +1,1 @@
+WEB API. Proyecto Spring Boot.  Este proyecto es la segunda versión de RRHH, en  la cual se presenta una estructura de codeo más sencilla en cuanto a la construcción de los métodos y de las interfaces Repository. RRHH es un sistema de gestión de  sueldos por categorías de una planta de  empleados.
